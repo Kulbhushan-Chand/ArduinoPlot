@@ -27,6 +27,8 @@ $ ./wx_mpl_dynamic_graph.py --help
 
 **Note:** Make sure you have your Arduino IDE closed, or it will block other programs like this one from using the serial port.
 
+[![DOI](https://zenodo.org/badge/95277217.svg)](https://zenodo.org/badge/latestdoi/95277217)
+
 ## Requirements
 
 Install required [`wxPython Project Phoenix`](https://github.com/wxWidgets/Phoenix) system dependencies and than Python packages from `requirements.txt` file:
