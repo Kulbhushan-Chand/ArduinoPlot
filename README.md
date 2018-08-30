@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/95277217.svg)](https://zenodo.org/badge/latestdoi/95277217)
+
 # Arduino Plot
 
 Python script to plot a numeric data received from a serial port in real time.
