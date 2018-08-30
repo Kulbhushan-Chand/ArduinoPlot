@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/95277217.svg)](https://zenodo.org/badge/latestdoi/95277217)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1405858.svg)](https://doi.org/10.5281/zenodo.1405858)
+
 
 # Arduino Plot - Real time plotter
 
