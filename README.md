@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1405858.svg)](https://doi.org/10.5281/zenodo.1405858)
 
 
-# Arduino Plot - Real time plotter
+# Arduino Plot - Real time plotter 1
 
 Python script to plot a numeric data received from a serial port in real time.
 
