@@ -1,3 +1,5 @@
+[![GitHub version](https://badge.fury.io/gh/Kulbhushan-Chand%2FArduinoPlot.svg)](https://badge.fury.io/gh/Kulbhushan-Chand%2FArduinoPlot)
+
 [![DOI](https://zenodo.org/badge/95277217.svg)](https://zenodo.org/badge/latestdoi/95277217)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1405858.svg)](https://doi.org/10.5281/zenodo.1405858)
